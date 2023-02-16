@@ -1,0 +1,21 @@
+{
+  "name": "saucedemo_e2e_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MBakiCaki/saucedemo_E2E_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MBakiCaki/saucedemo_E2E_test/issues"
+  },
+  "homepage": "https://github.com/MBakiCaki/saucedemo_E2E_test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
